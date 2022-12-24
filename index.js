@@ -21,7 +21,7 @@
         wish.innerText = "HAPPY BITRHDAY"
         countdown = document.getElementById("countdown")
         content = document.getElementById("content")
-        headline.innerText = "IT'S WORLD EMMANUEL'S DAY "
+        headline.innerText = "HAPPY BIRTHDAY DEAR EMMANUEL"
         clearInterval(x);
 
     }
